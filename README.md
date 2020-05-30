@@ -1,5 +1,7 @@
 # covid-19-dataset
-Daily data on active nonpharmaceutical interventions against COVID-19 in 41 countries
+Daily data on active nonpharmaceutical interventions against COVID-19 in 41 countries.
+
+These data have been manually checked, but please exercise your own validation before acting on it.
 
 
 ## NPIs included in the modelling dataset
