@@ -1,8 +1,10 @@
+# Modelling the effectiveness and burden of nonpharmaceutical interventions against COVID-19
+
 Accompanying data and code for Brauner et al (2020), 'The effectiveness and perceived burden of nonpharmaceutical interventions against COVID-19 transmission: a modelling study with 41 countries'. \[Code upload to follow.\]
 
 Daily data on active nonpharmaceutical interventions (NPIs) against COVID-19 in 41 countries. We also include three response variables: total confirmed case count, current known active case count, and total attributed death count.
 
-Data on symptomatic testing regimes was sourced from the [Oxford CGRT database](https://github.com/OxCGRT/covid-policy-tracker). Data on cases and deaths are from the [Johns Hopkins Center for Systems Science and Engineering repository]((https://github.com/CSSEGISandData/COVID-19)).
+Data on symptomatic testing regimes was sourced from the [Oxford CGRT database](https://github.com/OxCGRT/covid-policy-tracker). Data on cases and deaths are from the [Johns Hopkins Center for Systems Science and Engineering repository](https://github.com/CSSEGISandData/COVID-19).
 
 These data have been manually checked, but please exercise your own validation before acting on it.
 
