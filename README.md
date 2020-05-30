@@ -1,10 +1,22 @@
 # covid-19-dataset
-Daily data on active nonpharmaceutical interventions against COVID-19 in 41 countries. We also include three response variables: total confirmed case count, current known active case count, and total attributed death count.
+
+Accompanying data and code for Brauner et al (2020), [The effectiveness and perceived burden of nonpharmaceutical interventions against COVID-19 transmission: a modelling study with 41 countries](). \[Code upload to follow.\]
+
+Daily data on active nonpharmaceutical interventions (NPIs) against COVID-19 in 41 countries. We also include three response variables: total confirmed case count, current known active case count, and total attributed death count.
+
+Data on symptomatic testing regimes was sourced from the Oxford CGRT database. Data on cases and deaths are from the Johns Hopkins.
 
 These data have been manually checked, but please exercise your own validation before acting on it.
 
+### Data
 
-## NPIs included in the modelling dataset
+We include two datasets:
+
+* [daily_npi_data.csv](https://github.com/robust-npis/covid-19-npis/blob/master/data/daily_npi_data.csv) : the modelling dataset, daily coverage of the interventions active in each country
+* [npi_source_data.csv](https://github.com/robust-npis/covid-19-npis/blob/master/data/npi_source_data.csv) : including links to the announcement of each NPI in each country.
+
+
+### NPIs included
 
 | NPI                       | Description |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,3 +29,9 @@ These data have been manually checked, but please exercise your own validation b
 | Most Businesses Suspended | A country has suspended the operations of many customer-facing businesses. By default, customer-facing businesses are suspended unless they are designated as essential (whitelist). |
 | School Closure            | A country has closed many or all schools. (Note that this was accompanied by closing universities in more than 75% of cases in our data.) |
 | Stay Home Order           | An order for the general public to stay at home has been issued. This is mandatory, not just a recommendation. Exemptions are usually granted for certain purposes (such as shopping, exercise, or going to work), or, more rarely, for certain times of the day. In practice, a stay-at-home order was often accompanied by other NPIs such as businesses closures. However, a stay-at-home order does not in principle entail these other NPIs,  but only the (additional) order to generally stay at home except for exemptions. |
+
+### See also
+
+* [Oxford COVID-19 Government Response Tracker](https://github.com/OxCGRT/covid-policy-tracker).
+* [Johns Hopkins CSSE COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19).
+* [The Epidemic Forecasting database](http://epidemicforecasting.org/containment).
