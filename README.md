@@ -1,5 +1,5 @@
 # covid-19-dataset
-Daily data on active nonpharmaceutical interventions against COVID-19 in 41 countries.
+Daily data on active nonpharmaceutical interventions against COVID-19 in 41 countries. We also include three response variables: total confirmed case count, current known active case count, and total attributed death count.
 
 These data have been manually checked, but please exercise your own validation before acting on it.
 
