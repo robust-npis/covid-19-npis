@@ -1,6 +1,6 @@
 # covid-19-dataset
 
-Accompanying data and code for Brauner et al (2020), [The effectiveness and perceived burden of nonpharmaceutical interventions against COVID-19 transmission: a modelling study with 41 countries](). \[Code upload to follow.\]
+Accompanying data and code for Brauner et al (2020), 'The effectiveness and perceived burden of nonpharmaceutical interventions against COVID-19 transmission: a modelling study with 41 countries'. \[Code upload to follow.\]
 
 Daily data on active nonpharmaceutical interventions (NPIs) against COVID-19 in 41 countries. We also include three response variables: total confirmed case count, current known active case count, and total attributed death count.
 
