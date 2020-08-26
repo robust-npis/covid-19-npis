@@ -1,3 +1,7 @@
+# --------------------------------------- 
+# This repo refers to a previous version of the paper and is now outdated. The up-to-date data, model code, and results, can be found at [https://github.com/epidemics/COVIDNPIs/tree/paper](https://github.com/epidemics/COVIDNPIs/tree/paper)
+# ---------------------------------------
+
 # Modelling the effectiveness and burden of nonpharmaceutical interventions against COVID-19
 
 Accompanying data and code for Brauner et al (2020), 'The effectiveness and perceived burden of nonpharmaceutical interventions against COVID-19 transmission: a modelling study with 41 countries'. \[Code upload to follow.\]
